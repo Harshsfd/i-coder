@@ -1,4 +1,3 @@
-#i-Coder
-E-learning Frontend Website Using HTMl,
-CSS & Bootstrap.
-Project Link :- https://harshsfd.github.io/i-coder/
+# i-Coder
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen)](https://harshsfd.github.io/i-coder/)
